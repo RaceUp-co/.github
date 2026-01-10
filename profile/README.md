@@ -138,7 +138,7 @@ Vous êtes impliqué tout au long du projet avec des points de suivi réguliers 
 ## 📬 Contact
 
 **Email professionnel** : contact@raceup.fr  
-**Site web** : [www.raceup.fr](https://www.raceup.fr)  
+**Site web** : [www.raceup.fr](https://race-up.net/)  
 **LinkedIn** : [RaceUp sur LinkedIn](#)
 
 ### Horaires de disponibilité
